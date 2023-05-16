@@ -2,7 +2,7 @@
 
 # What and Why
 
-This is a [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) implement code!!!
+This is a [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) implement code for beginner to play!!!
 This is a ChatGPT Prompt for Beginner!!!
 Enjoy yourself,bro
 
