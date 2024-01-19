@@ -12,7 +12,7 @@ Enjoy yourself,bro
    
    According to your act,put the prompt from prompts.csv into the prompt variable
    
-2. Run code,give the input,ChatGPT will output depend on your task
+2. Run code(main.py),give the input,ChatGPT will output depend on your task
 
 3. If you get it,you can DIY the code
 
